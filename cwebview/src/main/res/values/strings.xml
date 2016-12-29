@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CWebview</string>
+    <string name="fileuploader_sdcard_unavailable">请插入手机存储卡再使用本功能</string>
+    <string name="fileuploader_error_getimage">获取图片失败</string>
+    <string name="fileuploader_error_filefromat">上传的图片仅支持png或jpg格式</string>
+
+</resources>
